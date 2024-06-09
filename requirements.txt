@@ -1,0 +1,9 @@
+sentence-transformers
+fuzzywuzzy
+nltk
+python-Levenshtein
+requests
+pandas
+bs4
+numpy
+tabulate
